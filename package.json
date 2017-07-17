@@ -119,6 +119,6 @@
         "test:unit:watch": "jest --watch"
     },
     "engines": {
-        "node": " 6.11.1"
+        "node": "6.4.0"
     }
 }
